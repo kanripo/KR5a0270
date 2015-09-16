@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:44:06.759967
+#+TITLE: 修真十書上清集
+#+PROPERTY: DZID  DZ0263g
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—772 八卷 洞真部方法類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
